@@ -7,7 +7,7 @@ try {
     await page.goto('https://www.google.com')
     await page.screenshot({path: 'amazon.png'})
     //await browser.close()
-    console.log('See screenshot')
+    console.log('See screenshzzodt')
   })()
 } catch (err) {
   console.error(err)
